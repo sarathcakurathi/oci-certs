@@ -29,6 +29,7 @@
     * I did not cover it in my readup but I got 1 correct
 * OCI Attestations: 2
     * I did not cover it in my readup, I doubt, I got both of them wrong
+    * There was a question on usage of PCI DSS attestation
 
 ### Experience, Preparation & Suggestions
 -----------------------------------------
