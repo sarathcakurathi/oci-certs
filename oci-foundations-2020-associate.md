@@ -14,6 +14,8 @@
     * Fass connect & IPSec VPN: 2
 * OCI Region, Availability Domain, Fault Domains: 4-5
 * OCI Pricing model: 2-3
+   * Most cost effective storage service
+   * Which not OCI supported pricing model. Options were - Monthly flex, Pay-as-you-go, BYOL & [Ans: Reserved](https://www.oracle.com/in/cloud/pricing.html)
 * OCI Data transfer service: 1
 * Basic cloud concepts: 3
     * Capex vs Opex: 1
