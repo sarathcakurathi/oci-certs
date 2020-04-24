@@ -35,5 +35,5 @@
 * Luckily I didnot face any technical glitches and I finished the exam 40 mins before
 * I could mark all questions in first **35 mins**, marked **21 questions** for review and spent **20 mins** in review
 * Did end-to-end review back and forth 2 times and I was certain that I couldn't get 8-10 questions correctly and I was right after submitting the exam
-* I just went through the [OCI docs](https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm) and [Oracle learning path](https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258)
-* Best time to do it is before Mar'15,2020 as all OCI certifications are available for free with online proctoring
+* Prepration: I just went through the [OCI docs](https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm) and [Oracle learning path](https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258)
+* Suggestion: Best time to do it is before Mar'15,2020 as all OCI certifications are available for free with online proctoring
