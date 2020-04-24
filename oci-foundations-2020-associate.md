@@ -28,8 +28,8 @@
 * OCI Attestations: 2
     * I did not cover it in my readup, I doubt, I got both of them wrong
 
-### Comments
-------------
+### Experience, Preparation & Suggestions
+-----------------------------------------
 * Overall it was medium difficult level for me as I am just 3 months into OCI
 * I managed to score **88%** (Pass: 68%)
 * Luckily I didnot face any technical glitches and I finished the exam 40 mins before
