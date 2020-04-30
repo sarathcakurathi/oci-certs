@@ -27,6 +27,9 @@
   * Questions on block volume backups and block volume cloning
   * Storage selection
   * Use case to improve IO performance to use NVMe disks
+* Load balancer
+  * When to use public/private load balancers
+  * Troubleshooting issues with LBaas connectivity
 
 ### Experience, Preparation & Suggestions
 -----------------------------------------
