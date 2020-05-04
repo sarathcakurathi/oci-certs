@@ -30,6 +30,7 @@
 * Load balancer
   * When to use public/private load balancers
   * Troubleshooting issues with LBaas connectivity
+  * What happens when an instance is marked for connection draining 
 
 ### Experience, Preparation & Suggestions
 -----------------------------------------
