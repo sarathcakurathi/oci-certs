@@ -17,4 +17,5 @@
   * [OCI docs](https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm)
   * [Oracle learning path](https://learn.oracle.com/ols/learning-path/become-oci-developer-associate/35644/75248)
   * [Cloud Native design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - I liked this docs
+  * [Test doubles](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 * Suggestion: Best time to do it is before Mar'15,2020 as all OCI certifications are available for free with online proctoring
